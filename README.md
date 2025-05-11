@@ -159,17 +159,6 @@ Ensure `proxy` is added in `frontend/package.json`:
 * CSV upload interface
 * Vaccination report table with download button
 
----
-
-## 📹 Demonstration Video
-
-Include a screencast showing:
-
-* Adding students (manual + CSV)
-* Creating and editing a drive
-* Vaccinating students
-* Dashboard summary
-* Report export
 
 ---
 
@@ -198,22 +187,8 @@ README.md        # This file
 * PostgreSQL Docs: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
 * PapaParse CSV Parser: [https://www.papaparse.com/](https://www.papaparse.com/)
 
----
 
-## 📥 Submission Checklist
-
-* [x] All user stories implemented
-* [x] Full-stack integration tested
-* [x] GitHub repo updated
-* [x] Demo video recorded
-* [x] Documentation and screenshots ready for LMS upload
 
 ---
 
-✅ All requirements from the assignment document have been covered.
 
-Contact: [akshaya.ganesan@pilani.bits-pilani.ac.in](mailto:akshaya.ganesan@pilani.bits-pilani.ac.in)
-
----
-
-**End of Documentation**
