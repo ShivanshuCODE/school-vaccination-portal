@@ -152,7 +152,9 @@ Ensure `proxy` is added in `frontend/package.json`:
 
 ---
 
-## 🖼️ Output Screenshots (To Include)
+## 🖼️ Output Screenshots 
+
+![ss](https://github.com/user-attachments/assets/4454e773-cac8-4573-a20b-7a3f1ad014f8)
 
 * Dashboard metrics and drive list
 * Student list with vaccination status
